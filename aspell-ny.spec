@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Chichewa dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S³ownik niand¿a (lista s³ów) dla aspella.
+S³ownik (lista s³ów) niand¿a dla aspella.
 
 %prep
 %setup -q -n aspell5-ny-%{version}-%{subv}
