@@ -1,5 +1,5 @@
 Summary:	Chichewa dictionary for aspell
-Summary(pl.UTF-8):   Słownik niandża dla aspella
+Summary(pl.UTF-8):	Słownik niandża dla aspella
 Name:		aspell-ny
 Version:	0.01
 %define	subv	0
