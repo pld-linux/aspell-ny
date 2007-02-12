@@ -1,5 +1,5 @@
 Summary:	Chichewa dictionary for aspell
-Summary(pl):	S≥ownik niandøa dla aspella
+Summary(pl.UTF-8):   S≈Çownik niand≈ºa dla aspella
 Name:		aspell-ny
 Version:	0.01
 %define	subv	0
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Chichewa dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik niandøa (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik niand≈ºa (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-ny-%{version}-%{subv}
