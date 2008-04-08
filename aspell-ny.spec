@@ -6,7 +6,7 @@ Version:	0.01
 Release:	1
 License:	GPL v2+
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/ny/aspell5-ny-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/ny/aspell5-ny-%{version}-%{subv}.tar.bz2
 # Source0-md5:	856906a424fcbc50cc925d692d294215
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 2:0.50.0
